@@ -1,11 +1,17 @@
-# Golf game
+# Golf Game Master
 
-This is a 9 hole 2D golf game created using pygame.
+A simple and fun golf-style game where you aim, drag, and shoot the ball to reach the hole in minimum strokes.
 
-# Requirements
-- Python 3.x
-- TKinter
-- Pygame
+## 🚀 How to Run
+1. Clone the repo: git clone https://github.com/aaryamahajan919/Golf-game-master.git
+2. Open the project folder: cd Golf-game-master/Golf-Game-master
+3. Open the index.html file in your browser to play.
 
-# Run Instructions
-Run the file *main.py* to start the program.
+## 🎮 Gameplay
+- Drag to aim and set the power.
+- Release to shoot the ball.
+- Reach the hole with the fewest shots.
+
+## 📜 License
+This project is for learning and personal use.
+
