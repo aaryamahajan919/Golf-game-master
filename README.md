@@ -13,6 +13,9 @@ A simple Python-based golf game where you drag, aim, and shoot the ball to reach
 5. Run the game:
    python main.py
 
+## 🎮 Game preview
+![Game Screenshot](project2.png)
+
 ## 🎮 Gameplay
 - Drag with your mouse to aim and set shot power.
 - Release to shoot the ball.
